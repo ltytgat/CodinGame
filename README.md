@@ -14,80 +14,80 @@ Solutions made with ChatGPT are in this ***format***
 
 | Game | Rank | Languages |
 |------|------|-----------|
-| [Coders Striker Back](https://www.codingame.com/multiplayer/bot-programming/coders-strike-back) | Silver | [Python](https://github.com/orionewton/CodinGame/blob/main/Bots/coders.py) |
-| [Legends of Code & Magic](https://www.codingame.com/multiplayer/bot-programming/legends-of-code-magic) | Bronze | [Python](https://github.com/orionewton/CodinGame/blob/main/Bots/legends.py) |
-| [Ghost in the Cell](https://www.codingame.com/multiplayer/bot-programming/ghost-in-the-cell) | Bronze | [Python](https://github.com/orionewton/CodinGame/blob/main/Bots/ghost.py) |
+| [Coders Striker Back](https://www.codingame.com/multiplayer/bot-programming/coders-strike-back) | Silver | [Python](https://github.com/ltytgat/CodinGame/blob/main/Bots/coders.py) |
+| [Legends of Code & Magic](https://www.codingame.com/multiplayer/bot-programming/legends-of-code-magic) | Bronze | [Python](https://github.com/ltytgat/CodinGame/blob/main/Bots/legends.py) |
+| [Ghost in the Cell](https://www.codingame.com/multiplayer/bot-programming/ghost-in-the-cell) | Bronze | [Python](https://github.com/ltytgat/CodinGame/blob/main/Bots/ghost.py) |
 
 ## Puzzles | :heavy_check_mark: Completed | :x: Not Completed |
 
 ### Easy (31/118 completed)
 
-| No. | Puzzle Name | State| Difficulty | Languages |
-|-----|-------------|------|------------|-----------|
-| 1 | [1x1x1 Rubik's cube movements](https://www.codingame.com/training/easy/111-rubiks-cube-movements) | :x: Not Completed | Easy | |
-| 2 | [1D Spreadsheet](https://www.codingame.com/training/easy/1d-spreadsheet) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/1D.py) |
-| 3 | [7-Segment Scanner](https://www.codingame.com/training/easy/7-segment-scanner) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/7_segments.py) |
-| 4 | [Add'em Up](https://www.codingame.com/training/easy/addem-up) | :x: Not Completed | Easy | |
-| 5 | [ASCII Art](https://www.codingame.com/training/easy/ascii-art) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/ascii.py) |
-| 6 | [Balanced ternary computer: encode](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/ternary.py)|
-| 7 | [Bank Robbers](https://www.codingame.com/training/easy/bank-robbers) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/bank.py) |
-| 8 | [Brackets, extreme edition.](https://www.codingame.com/training/easy/brackets-extreme-edition) | :x: Not Completed | Easy | |
-| 9 | [Brick in the Wall](https://www.codingame.com/training/easy/brick-in-the-wall) | :x: Not Completed | Easy | |
-| 10 | [Bulk Email Generator](https://www.codingame.com/training/easy/bulk-email-generator) | :x: Not Completed | Easy | |
-| 11 | [Carmichael numbers](https://www.codingame.com/training/easy/carmichael-numbers) | :x: Not Completed | Easy | |
-| 12 | [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/chuck.py) |
-| 13 | [Cosmic Love](https://www.codingame.com/training/easy/cosmic-love) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/cosmic.py) |
-| 14 | [Custom Game of Life](https://www.codingame.com/ide/puzzle/custom-game-of-life) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/life.py) |
-| 15 | [Darts](https://www.codingame.com/training/easy/darts) | :x: Not Completed | Easy | |
-| 16 | [Dead men's shot](https://www.codingame.com/training/easy/dead-mens-shot) | :x: Not Completed | Easy | |
-| 17 | [Defibrillators](https://www.codingame.com/training/easy/defibrillators) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/defib.py)|
-| 18 | [Detective Pikaptcha Ep1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)  | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/pika.py) |
-| 19 | [Detective Pikaptcha Ep2](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)  | :x: Not Completed | Easy | |
-| 20 | [Disordered First Contact](https://www.codingame.com/training/easy/disordered-first-contact) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/first_contact.py) |
-| 21 | [Encryption/Decryption of Enigma Machine](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/enigma.py) |
-| 22 | [Expand the polynomial](https://www.codingame.com/training/easy/expand-the-polynomial) | :x: Not Completed | Easy | |
-| 23 | [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/ghost_leg.py) |
-| 24 | [Graffiti on the Fence](https://www.codingame.com/training/easy/graffiti-on-the-fence) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/graffitti.py) |
-| 25 | [Gravity Tumbler](https://www.codingame.com/training/easy/gravity-tumbler) | :x: Not Completed | Easy | |
-| 26 | [Guessing n Cheating](https://www.codingame.com/training/easy/guessing-n-cheating) | :x: Not Completed | Easy | |
-| 27 | [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/horse.py), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/horse.java), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/horse.cpp), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/horse.c) |
-| 28 | [Horse-racing Hyperduals](https://www.codingame.com/training/easy/horse-racing-hyperduals) | :x: Not Completed | Easy | |
-| 29 | [How time flies](https://www.codingame.com/training/easy/how-time-flies) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/time.py) |
-| 30 | [Insert to String](https://www.codingame.com/training/easy/insert-to-string) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/insert.py) |
-| 31 | [ISBN Check digit](https://www.codingame.com/training/easy/isbn-check-digit) | :x: Not Completed | Easy | |
-| 32 | [Jack Silver: The Casino](https://www.codingame.com/training/easy/jack-silver-the-casino) | :x: Not Completed | Easy | |
-| 33 | [Logic Gates](https://www.codingame.com/training/easy/logic-gates) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/logic.py) |
-| 34 | [Lumen](https://www.codingame.com/training/easy/lumen) | :x: Not Completed | Easy | |
-| 35 | [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.cpp), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.c), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.java), [C#](https://github.com/orionewton/CodinGame/blob/main/Easy/mars.cs) |
-| 36 | [May the Triforce be with you!](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) | :x: Not Completed | Easy | |
-| 37 | [MIME Type](https://www.codingame.com/training/easy/mime-type) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/mime.py) |
-| 38 | [Morellet's random lines](https://www.codingame.com/training/easy/morellets-random-lines) | :x: Not Completed | Easy | |
-| 39 | [Nature of quadrilaterals](https://www.codingame.com/training/easy/nature-of-quadrilaterals) | :x: Not Completed | Easy | |
-| 40 | [Onboarding](https://www.codingame.com/training/easy/onboarding) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.c), [C#](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.cs)<br />[Pascal](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.pp), [PHP](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.php), [JS](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.js), [VB.NET](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.vb), [Lua](https://github.com/orionewton/CodinGame/blob/main/Easy/onboarding.lua) |
-| 41 | [orDer oF succeSsion](https://www.codingame.com/training/easy/order-of-succession) | :x: Not Completed | Easy |  |
-| 42 | [Organic Compounds](https://www.codingame.com/training/easy/organic-compounds) | :x: Not Completed | Easy |  |
-| 43 | [Personal Best](https://www.codingame.com/training/easy/personal-best) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/gym.py)
-| 44 | [Pirate's treasure](https://www.codingame.com/training/easy/pirates-treasure) | :x: Not Completed | Easy |  |
-| 45 | [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/thor.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/thor.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/thor.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/thor.c), [C#](https://github.com/orionewton/CodinGame/blob/main/Easy/thor.cs) |
-| 46 | [Prefix Code](https://www.codingame.com/training/easy/prefix-code) | :heavy_check_mark: Completed | Easy| [***Python***](https://github.com/orionewton/CodinGame/blob/main/Easy/prefix.py)
-| 47 | [Rectangle Partition](https://www.codingame.com/training/easy/rectangle-partition) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/rectangle.py)
-| 48 | [Rectangular block spinner](https://www.codingame.com/training/easy/rectangular-block-spinner) | :x: Not Completed | Easy |  |
-| 49 | [Rock Paper Scissors Lizard Spock](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/rpcls.py)
-| 50 | [Robot Show](https://www.codingame.com/training/easy/robot-show) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/robot.c) |
-| 51 | [Rooks Movements](https://www.codingame.com/training/easy/rooks-movements) | :x: Not Completed | Easy |  |
-| 52 | [Rugby score](https://www.codingame.com/training/easy/rugby-score) | :x: Not Completed | Easy |  |
-| 53 | [Self-driving car testing](https://www.codingame.com/training/easy/self-driving-car-testing) | :x: Not Completed | Easy |  |
-| 54 | [Simple Awalé](https://www.codingame.com/training/easy/simple-awale) | :x: Not Completed | Easy |  |
-| 55 | [Sudoku Validator](https://www.codingame.com/training/easy/sudoku-validator) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/sudoku.py)
-| 56 | [Temperatures](https://www.codingame.com/training/easy/temperatures) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.c), [C#](https://github.com/orionewton/CodinGame/blob/main/Easy/temperature.cs) |
-| 57 | [Text formatting](https://www.codingame.com/training/easy/text-formatting) | :x: Not Completed | Easy | |
-| 58 | [The Descent](https://www.codingame.com/training/easy/the-descent) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/decsent.py), [C++](https://github.com/orionewton/CodinGame/blob/main/Easy/descente.cpp), [Java](https://github.com/orionewton/CodinGame/blob/main/Easy/descente.java), [C](https://github.com/orionewton/CodinGame/blob/main/Easy/descente.c) |
-| 59 | [The River I.](https://www.codingame.com/training/easy/the-river-i-) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/river.py)|
-| 60 | [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/river2.py)|
-| 61 | [The Travelling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | :x: Not Completed | Easy |  |
-| 62 | [TicTacToe](https://www.codingame.com/training/easy/tictactoe) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/orionewton/CodinGame/blob/main/Easy/tictactoe.py)
-| 63 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | :x: Not Completed | Easy |  |
-| 64 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
+| Puzzle Name | State| Difficulty | Languages |
+|-------------|------|------------|-----------|
+| [1x1x1 Rubik's cube movements](https://www.codingame.com/training/easy/111-rubiks-cube-movements) | :x: Not Completed | Easy | |
+| [1D Spreadsheet](https://www.codingame.com/training/easy/1d-spreadsheet) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/1D.py) |
+| [7-Segment Scanner](https://www.codingame.com/training/easy/7-segment-scanner) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/7_segments.py) |
+| [Add'em Up](https://www.codingame.com/training/easy/addem-up) | :x: Not Completed | Easy | |
+| [ASCII Art](https://www.codingame.com/training/easy/ascii-art) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/ascii.py) |
+| [Balanced ternary computer: encode](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/ternary.py)|
+| [Bank Robbers](https://www.codingame.com/training/easy/bank-robbers) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/bank.py) |
+| [Brackets, extreme edition.](https://www.codingame.com/training/easy/brackets-extreme-edition) | :x: Not Completed | Easy | |
+| [Brick in the Wall](https://www.codingame.com/training/easy/brick-in-the-wall) | :x: Not Completed | Easy | |
+| [Bulk Email Generator](https://www.codingame.com/training/easy/bulk-email-generator) | :x: Not Completed | Easy | |
+| [Carmichael numbers](https://www.codingame.com/training/easy/carmichael-numbers) | :x: Not Completed | Easy | |
+| [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/chuck.py) |
+| [Cosmic Love](https://www.codingame.com/training/easy/cosmic-love) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/cosmic.py) |
+| [Custom Game of Life](https://www.codingame.com/ide/puzzle/custom-game-of-life) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/life.py) |
+| [Darts](https://www.codingame.com/training/easy/darts) | :x: Not Completed | Easy | |
+| [Dead men's shot](https://www.codingame.com/training/easy/dead-mens-shot) | :x: Not Completed | Easy | |
+| [Defibrillators](https://www.codingame.com/training/easy/defibrillators) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/defib.py)|
+| [Detective Pikaptcha Ep1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)  | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/pika.py) |
+| [Detective Pikaptcha Ep2](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)  | :x: Not Completed | Easy | |
+| [Disordered First Contact](https://www.codingame.com/training/easy/disordered-first-contact) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/first_contact.py) |
+| [Encryption/Decryption of Enigma Machine](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/enigma.py) |
+| [Expand the polynomial](https://www.codingame.com/training/easy/expand-the-polynomial) | :x: Not Completed | Easy | |
+| [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/ghost_leg.py) |
+| [Graffiti on the Fence](https://www.codingame.com/training/easy/graffiti-on-the-fence) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/graffitti.py) |
+| [Gravity Tumbler](https://www.codingame.com/training/easy/gravity-tumbler) | :x: Not Completed | Easy | |
+| [Guessing n Cheating](https://www.codingame.com/training/easy/guessing-n-cheating) | :x: Not Completed | Easy | |
+| [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/horse.py), [Java](https://github.com/ltytgat/CodinGame/blob/main/Easy/horse.java), [C++](https://github.com/ltytgat/CodinGame/blob/main/Easy/horse.cpp), [C](https://github.com/ltytgat/CodinGame/blob/main/Easy/horse.c) |
+| [Horse-racing Hyperduals](https://www.codingame.com/training/easy/horse-racing-hyperduals) | :x: Not Completed | Easy | |
+| [How time flies](https://www.codingame.com/training/easy/how-time-flies) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/time.py) |
+| [Insert to String](https://www.codingame.com/training/easy/insert-to-string) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/insert.py) |
+| [ISBN Check digit](https://www.codingame.com/training/easy/isbn-check-digit) | :x: Not Completed | Easy | |
+| [Jack Silver: The Casino](https://www.codingame.com/training/easy/jack-silver-the-casino) | :x: Not Completed | Easy | |
+| [Logic Gates](https://www.codingame.com/training/easy/logic-gates) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/logic.py) |
+| [Lumen](https://www.codingame.com/training/easy/lumen) | :x: Not Completed | Easy | |
+| [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/mars.py), [C++](https://github.com/ltytgat/CodinGame/blob/main/Easy/mars.cpp), [C](https://github.com/ltytgat/CodinGame/blob/main/Easy/mars.c), [Java](https://github.com/ltytgat/CodinGame/blob/main/Easy/mars.java), [C#](https://github.com/ltytgat/CodinGame/blob/main/Easy/mars.cs) |
+| [May the Triforce be with you!](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) | :x: Not Completed | Easy | |
+| [MIME Type](https://www.codingame.com/training/easy/mime-type) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/mime.py) |
+| [Morellet's random lines](https://www.codingame.com/training/easy/morellets-random-lines) | :x: Not Completed | Easy | |
+| [Nature of quadrilaterals](https://www.codingame.com/training/easy/nature-of-quadrilaterals) | :x: Not Completed | Easy | |
+| [Onboarding](https://www.codingame.com/training/easy/onboarding) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/onboarding.py), [C++](https://github.com/ltytgat/CodinGame/blob/main/Easy/onboarding.cpp), [Java](https://github.com/ltytgat/CodinGame/blob/main/Easy/onboarding.java), [C](https://github.com/ltytgat/CodinGame/blob/main/Easy/onboarding.c), [C#](https://github.com/ltytgat/CodinGame/blob/main/Easy/onboarding.cs)<br />[Pascal](https://github.com/ltytgat/CodinGame/blob/main/Easy/onboarding.pp), [PHP](https://github.com/ltytgat/CodinGame/blob/main/Easy/onboarding.php), [JS](https://github.com/ltytgat/CodinGame/blob/main/Easy/onboarding.js), [VB.NET](https://github.com/ltytgat/CodinGame/blob/main/Easy/onboarding.vb), [Lua](https://github.com/ltytgat/CodinGame/blob/main/Easy/onboarding.lua) |
+| [orDer oF succeSsion](https://www.codingame.com/training/easy/order-of-succession) | :x: Not Completed | Easy |  |
+| [Organic Compounds](https://www.codingame.com/training/easy/organic-compounds) | :x: Not Completed | Easy |  |
+| [Personal Best](https://www.codingame.com/training/easy/personal-best) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/gym.py)
+| [Pirate's treasure](https://www.codingame.com/training/easy/pirates-treasure) | :x: Not Completed | Easy |  |
+| [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/thor.py), [C++](https://github.com/ltytgat/CodinGame/blob/main/Easy/thor.cpp), [Java](https://github.com/ltytgat/CodinGame/blob/main/Easy/thor.java), [C](https://github.com/ltytgat/CodinGame/blob/main/Easy/thor.c), [C#](https://github.com/ltytgat/CodinGame/blob/main/Easy/thor.cs) |
+| [Prefix Code](https://www.codingame.com/training/easy/prefix-code) | :heavy_check_mark: Completed | Easy| [***Python***](https://github.com/ltytgat/CodinGame/blob/main/Easy/prefix.py)
+| [Rectangle Partition](https://www.codingame.com/training/easy/rectangle-partition) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/rectangle.py)
+| [Rectangular block spinner](https://www.codingame.com/training/easy/rectangular-block-spinner) | :x: Not Completed | Easy |  |
+| [Rock Paper Scissors Lizard Spock](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/rpcls.py)
+| [Robot Show](https://www.codingame.com/training/easy/robot-show) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/robot.py), [C++](https://github.com/ltytgat/CodinGame/blob/main/Easy/robot.cpp), [Java](https://github.com/ltytgat/CodinGame/blob/main/Easy/robot.java), [C](https://github.com/ltytgat/CodinGame/blob/main/Easy/robot.c) |
+| [Rooks Movements](https://www.codingame.com/training/easy/rooks-movements) | :x: Not Completed | Easy |  |
+| [Rugby score](https://www.codingame.com/training/easy/rugby-score) | :x: Not Completed | Easy |  |
+| [Self-driving car testing](https://www.codingame.com/training/easy/self-driving-car-testing) | :x: Not Completed | Easy |  |
+| [Simple Awalé](https://www.codingame.com/training/easy/simple-awale) | :x: Not Completed | Easy |  |
+| [Sudoku Validator](https://www.codingame.com/training/easy/sudoku-validator) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/sudoku.py)
+| [Temperatures](https://www.codingame.com/training/easy/temperatures) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/temperature.py), [C++](https://github.com/ltytgat/CodinGame/blob/main/Easy/temperature.cpp), [Java](https://github.com/ltytgat/CodinGame/blob/main/Easy/temperature.java), [C](https://github.com/ltytgat/CodinGame/blob/main/Easy/temperature.c), [C#](https://github.com/ltytgat/CodinGame/blob/main/Easy/temperature.cs) |
+| [Text formatting](https://www.codingame.com/training/easy/text-formatting) | :x: Not Completed | Easy | |
+| [The Descent](https://www.codingame.com/training/easy/the-descent) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/decsent.py), [C++](https://github.com/ltytgat/CodinGame/blob/main/Easy/descente.cpp), [Java](https://github.com/ltytgat/CodinGame/blob/main/Easy/descente.java), [C](https://github.com/ltytgat/CodinGame/blob/main/Easy/descente.c) |
+| [The River I.](https://www.codingame.com/training/easy/the-river-i-) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/river.py)|
+| [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/river2.py)|
+| [The Travelling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | :x: Not Completed | Easy |  |
+| [TicTacToe](https://www.codingame.com/training/easy/tictactoe) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/tictactoe.py)
+| [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | :x: Not Completed | Easy |  |
+| [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
 
 
 ### Medium (10/209 completed)
@@ -96,11 +96,11 @@ Solutions made with ChatGPT are in this ***format***
 |-----|-------------|------|------------|-----------|
 | 1 | [1010(1)](https://www.codingame.com/training/medium/10101) | :x: Not Completed | Medium | |
 | 2 | [2.5D maze](https://www.codingame.com/training/medium/2-5d-maze) | :x: Not Completed | Medium | |
-| 3 | [2048 scores](https://www.codingame.com/training/medium/2048-scores) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/2048.py) |
+| 3 | [2048 scores](https://www.codingame.com/training/medium/2048-scores) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/ltytgat/CodinGame/blob/main/Medium/2048.py) |
 | 4 | [2x2x2 Rubik's cube movements](https://www.codingame.com/training/medium/222-rubiks-cube-movements) | :x: Not Completed | Medium | |
 | 5 | [Advanced Tree](https://www.codingame.com/training/medium/advanced-tree) | :x: Not Completed | Medium | |
 | 6 | [Ancestors & Descendants](https://www.codingame.com/training/medium/ancestors-&-descendants) | :x: Not Completed | Medium | |
-| 7 | [ANEO Sponsored Puzzle](https://www.codingame.com/training/medium/aneo) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/aneo.py) |
+| 7 | [ANEO Sponsored Puzzle](https://www.codingame.com/training/medium/aneo) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/ltytgat/CodinGame/blob/main/Medium/aneo.py) |
 | 8 | [Army ants](https://www.codingame.com/training/medium/army-ants) | :x: Not Completed | Medium | |
 | 9 | [ASCII ART: Glass Stacking](https://www.codingame.com/training/medium/ascii-art-:-glass-stacking) | :x: Not Completed | Medium | |
 | 10 | [Ascii Graph](https://www.codingame.com/training/medium/ascii-graph) | :x: Not Completed | Medium | |
@@ -128,7 +128,7 @@ Solutions made with ChatGPT are in this ***format***
 | 32 | [Digit sum successor](https://www.codingame.com/training/medium/digit-sum-successor) | :x: Not Completed | Medium | |
 | 33 | [Divine!](https://www.codingame.com/training/medium/divine!) | :x: Not Completed | Medium | |
 | 34 | [Dominoes Path](https://www.codingame.com/training/medium/dominoes-path) | :x: Not Completed | Medium | |
-| 35 | [Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/panic.py) |
+| 35 | [Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/ltytgat/CodinGame/blob/main/Medium/panic.py) |
 | 36 | [Dwars standing on the shoulders of giants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants) | :x: Not Completed | Medium | |
 | 37 | [Elementary cellular automaton](https://www.codingame.com/training/medium/elementary-cellular-automaton) | :x: Not Completed | Medium | |
 | 38 | [Enigma - 3 rotors without plugboard](https://www.codingame.com/training/medium/enigma---3-rotors-without-plugboard) | :x: Not Completed | Medium | |
@@ -149,14 +149,14 @@ Solutions made with ChatGPT are in this ***format***
 | 53 | [Magic stones](https://www.codingame.com/training/medium/magic-stones) | :x: Not Completed | Medium | |
 | 54 | [Mars Lander - Episode 2](https://www.codingame.com/training/medium/mars-lander-episode-2) | :x: Not Completed | Medium | |
 | 55 | [Maximum sub-sequence](https://www.codingame.com/training/medium/maximum-sub-sequence) | :x: Not Completed | Medium | |
-| 56 | [Mayan Calculation](https://www.codingame.com/training/medium/mayan-calculation) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/maya.py) |
+| 56 | [Mayan Calculation](https://www.codingame.com/training/medium/mayan-calculation) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/ltytgat/CodinGame/blob/main/Medium/maya.py) |
 | 57 | [Maze](https://www.codingame.com/training/medium/maze) | :x: Not Completed | Medium | |
 | 58 | [Micro Assembly](https://www.codingame.com/training/medium/micro-assembly) | :x: Not Completed | Medium | |
 | 59 | [Minimal number of swaps](https://www.codingame.com/training/medium/minimal-number-of-swaps) | :x: Not Completed | Medium | |
 | 60 | [Minimax excercise](https://www.codingame.com/training/medium/minimax-exercise) | :x: Not Completed | Medium | |
 | 61 | [Monthly System](https://www.codingame.com/training/medium/monthly-system) | :x: Not Completed | Medium | |
 | 62 | [Near-Palindromes](https://www.codingame.com/training/medium/near-palindromes) | :x: Not Completed | Medium | |
-| 63 | [Network Cabling](https://www.codingame.com/training/medium/network-cabling) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/network.py) |
+| 63 | [Network Cabling](https://www.codingame.com/training/medium/network-cabling) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/ltytgat/CodinGame/blob/main/Medium/network.py) |
 | 64 | [Next car license plate ?](https://www.codingame.com/training/medium/next-car-license-plate) | :x: Not Completed | Medium |  |
 | 65 | [Number of letters in a number - Binary](https://www.codingame.com/training/medium/number-of-letters-in-a-number---binary) | :x: Not Completed | Medium |  |
 | 66 | [Number of paths between 2 points](https://www.codingame.com/training/medium/number-of-paths-between-2-points) | :x: Not Completed | Medium |  |
@@ -174,9 +174,9 @@ Solutions made with ChatGPT are in this ***format***
 | 78 | [Short accounts make long friends](https://www.codingame.com/training/medium/short-accounts-make-long-friends) | :x: Not Completed | Medium |  |
 | 79 | [Simple fraction to mixed number](https://www.codingame.com/training/medium/simple-fraction-to-mixed-number) | :x: Not Completed | Medium |  |
 | 80 | [Simplified Monopoly Turns Prediction](https://www.codingame.com/training/medium/simplified-monopoly-turns-prediction) | :x: Not Completed | Medium |  |
-| 81 | [Skynet Revolution - Episode 1](https://www.codingame.com/training/medium/skynet-revolution-episode-1) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/skynet.py) |
+| 81 | [Skynet Revolution - Episode 1](https://www.codingame.com/training/medium/skynet-revolution-episode-1) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/ltytgat/CodinGame/blob/main/Medium/skynet.py) |
 | 82 | [Snake encoding](https://www.codingame.com/training/medium/snake-encoding) | :x: Not Completed | Medium | |
-| 83 | [Stock Exchange Losses](https://www.codingame.com/training/medium/stock-exchange-losses) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/stock.py) |
+| 83 | [Stock Exchange Losses](https://www.codingame.com/training/medium/stock-exchange-losses) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/ltytgat/CodinGame/blob/main/Medium/stock.py) |
 | 84 | [Straddling Checkerboard Cryptography](https://www.codingame.com/training/medium/straddling-checkerboard-cryptography) | :x: Not Completed | Medium |  |
 | 85 | [Sum of divisors](https://www.codingame.com/training/medium/sum-of-divisors) | :x: Not Completed | Medium |  |
 | 86 | [Teads Sponsored Contest](https://www.codingame.com/training/medium/teads-sponsored-contest) | :x: Not Completed | Medium | |
@@ -187,15 +187,15 @@ Solutions made with ChatGPT are in this ***format***
 | 91 | [The Gift](https://www.codingame.com/training/medium/the-gift) | :x: Not Completed | Medium | |
 | 92 | [The Grand Festival - I](https://www.codingame.com/training/medium/the-grand-festival---i) | :x: Not Completed | Medium |  |
 | 93 | [The Grand Festival - II](https://www.codingame.com/training/medium/the-grand-festival---ii) | :x: Not Completed | Medium |  |
-| 94 | [The Last Crusade - Episode 1](https://www.codingame.com/training/medium/the-last-crusade-episode-1) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/crusade.py) |
+| 94 | [The Last Crusade - Episode 1](https://www.codingame.com/training/medium/the-last-crusade-episode-1) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/ltytgat/CodinGame/blob/main/Medium/crusade.py) |
 | 95 | [The Optimal Urinal Problem](https://www.codingame.com/training/medium/the-optimal-urinal-problem) | :x: Not Completed | Medium |  |
 | 96 | [The Ultimate Test](https://www.codingame.com/training/medium/the-ultimate-test) | :x: Not Completed | Medium |  |
 | 97 | [The Urinal Problem](https://www.codingame.com/training/medium/the-urinal-problem) | :x: Not Completed | Medium |  |
-| 98 | [There is no Spoon - Episode 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/spoon.py) |
+| 98 | [There is no Spoon - Episode 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/ltytgat/CodinGame/blob/main/Medium/spoon.py) |
 | 99 | [These Romans are crazy!](https://www.codingame.com/training/medium/these-romans-are-crazy!) | :x: Not Completed | Medium |  |
 | 100 | [Trits (Balanced Ternary Computing)](https://www.codingame.com/training/medium/trits-balanced-ternary-computing) | :x: Not Completed | Medium |  |
 | 101 | [Vote counting](https://www.codingame.com/training/medium/vote-counting) | :x: Not Completed | Medium |       |
-| 102 | [War](https://www.codingame.com/training/medium/winamax-battle)  | :heavy_check_mark: Completed | Medium | [Python](https://github.com/orionewton/CodinGame/blob/main/Medium/war.py)|
+| 102 | [War](https://www.codingame.com/training/medium/winamax-battle)  | :heavy_check_mark: Completed | Medium | [Python](https://github.com/ltytgat/CodinGame/blob/main/Medium/war.py)|
 | 103 | [Detective Pikaptcha Ep3](https://www.codingame.com/training/medium/detective-pikaptcha-ep3)  | :x: Not Completed | Medium |  |
 
 ### Hard (2/139 completed)
@@ -276,7 +276,7 @@ Solutions made with ChatGPT are in this ***format***
 | 72 | [Skynet Revolution - Episode 2](https://www.codingame.com/training/hard/skynet-revolution-episode-2) | :x: Not Completed | Hard |  |
 | 73 | [Spreadsheet Labels](https://www.codingame.com/training/hard/spreadsheet-labels) | :x: Not Completed | Hard |  |
 | 74 | [Sum of odd](https://www.codingame.com/training/hard/sum-of-odd) | :x: Not Completed | Hard |  |
-| 75 | [Super Computer](https://www.codingame.com/training/hard/super-computer) | :heavy_check_mark: Completed | Hard | [Python](https://github.com/orionewton/CodinGame/blob/main/Hard/comput.py) |
+| 75 | [Super Computer](https://www.codingame.com/training/hard/super-computer) | :heavy_check_mark: Completed | Hard | [Python](https://github.com/ltytgat/CodinGame/blob/main/Hard/comput.py) |
 | 76 | [Surface](https://www.codingame.com/training/hard/surface) | :x: Not Completed | Hard |  |
 | 77 | [Symbolic system of equations](https://www.codingame.com/training/hard/symbolic-system-of-equations) | :x: Not Completed | Hard |  |
 | 78 | [TAN Network](https://www.codingame.com/training/hard/tan-network) | :x: Not Completed | Hard |  |
@@ -291,7 +291,7 @@ Solutions made with ChatGPT are in this ***format***
 | 87 | [The Holy Grail](https://www.codingame.com/training/hard/the-holy-grail) | :x: Not Completed | Hard |  |
 | 88 | [The hungry duck - part 1](https://www.codingame.com/training/hard/the-hungry-duck---part-1) | :x: Not Completed | Hard |  |
 | 89 | [The hungry duck - part 2](https://www.codingame.com/training/hard/the-hungry-duck---part-2) | :x: Not Completed | Hard |  |
-| 90 | [The Labyrinth](https://www.codingame.com/training/hard/the-labyrinth) | :heavy_check_mark: Completed | Hard | [Python](https://github.com/orionewton/CodinGame/blob/main/Hard/labyrinth.py) |
+| 90 | [The Labyrinth](https://www.codingame.com/training/hard/the-labyrinth) | :heavy_check_mark: Completed | Hard | [Python](https://github.com/ltytgat/CodinGame/blob/main/Hard/labyrinth.py) |
 | 91 | [The Last Crusade - Episode 2](https://www.codingame.com/training/hard/the-last-crusade-episode-2) | :x: Not Completed | Hard |  |
 | 92 | [The max surface box](https://www.codingame.com/training/hard/the-max-surface-box) | :x: Not Completed | Hard |  |
 | 93 | [The Total is Right - Weird edition](https://www.codingame.com/training/hard/the-total-is-right---weird-edition) | :x: Not Completed | Hard |  |
