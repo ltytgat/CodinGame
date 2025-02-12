@@ -8,7 +8,7 @@
 
 In this reposority you will find my working solutions for puzzles and bots for contests on the platform https://www.codingame.com/.
 
-Solutions made with ChatGPT are in this ***format***
+Solutions made with ChatGPT are in this format: ***LanguageGPT***
 
 ## Bots
 
@@ -70,7 +70,7 @@ Solutions made with ChatGPT are in this ***format***
 | [Personal Best](https://www.codingame.com/training/easy/personal-best) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/gym.py)
 | [Pirate's treasure](https://www.codingame.com/training/easy/pirates-treasure) | :x: Not Completed | Easy |  |
 | [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/thor.py), [C++](https://github.com/ltytgat/CodinGame/blob/main/Easy/thor.cpp), [Java](https://github.com/ltytgat/CodinGame/blob/main/Easy/thor.java), [C](https://github.com/ltytgat/CodinGame/blob/main/Easy/thor.c), [C#](https://github.com/ltytgat/CodinGame/blob/main/Easy/thor.cs) |
-| [Prefix Code](https://www.codingame.com/training/easy/prefix-code) | :heavy_check_mark: Completed | Easy| [***Python***](https://github.com/ltytgat/CodinGame/blob/main/Easy/prefix.py)
+| [Prefix Code](https://www.codingame.com/training/easy/prefix-code) | :heavy_check_mark: Completed | Easy| [***PythonGPT***](https://github.com/ltytgat/CodinGame/blob/main/Easy/prefix.py)
 | [Rectangle Partition](https://www.codingame.com/training/easy/rectangle-partition) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/rectangle.py)
 | [Rectangular block spinner](https://www.codingame.com/training/easy/rectangular-block-spinner) | :x: Not Completed | Easy |  |
 | [Rock Paper Scissors Lizard Spock](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock) | :heavy_check_mark: Completed | Easy| [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/rpcls.py)
@@ -201,8 +201,8 @@ Solutions made with ChatGPT are in this ***format***
 
 ### Hard (2/139 completed)
 
-| No. | Puzzle Name | State| Difficulty | Languages |
-|-----|-------------|------|------------|-----------|
+| Puzzle Name | State| Difficulty | Languages |
+|-------------|------|------------|-----------|
 | [7-segment display](https://www.codingame.com/training/hard/7-segment-display) | :x: Not Completed | Hard | |
 | [Alternative vote](https://www.codingame.com/training/hard/alternative-vote) | :x: Not Completed | Hard | |
 | [Anagrams](https://www.codingame.com/training/hard/anagrams) | :x: Not Completed | Hard | |
@@ -312,8 +312,8 @@ Solutions made with ChatGPT are in this ***format***
 
 ### Very hard (0/46 completed)
 
-| No. | Puzzle Name | State| Difficulty | Languages |
-|-----|-------------|------|------------|-----------|
+| Puzzle Name | State| Difficulty | Languages |
+|-------------|------|------------|-----------|
 | [Binary neural network - Part 1](https://www.codingame.com/training/expert/binary-neural-network---part-1) | :x: Not Completed | Very Hard | |
 | [Binary neural network - Part 2](https://www.codingame.com/training/expert/binary-neural-network---part-2) | :x: Not Completed | Very Hard | |
 | [Bulls and Cows](https://www.codingame.com/training/expert/bulls-and-cows) | :x: Not Completed | Very Hard | |
