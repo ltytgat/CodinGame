@@ -54,6 +54,7 @@ Solutions made with ChatGPT are in this ***format***
 | [Horse-racing Hyperduals](https://www.codingame.com/training/easy/horse-racing-hyperduals) | :x: Not Completed | Easy | |
 | [How time flies](https://www.codingame.com/training/easy/how-time-flies) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/time.py) |
 | [Insert to String](https://www.codingame.com/training/easy/insert-to-string) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/insert.py) |
+| [Island Escape](https://www.codingame.com/training/easy/island-escape) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/island.py) |
 | [ISBN Check digit](https://www.codingame.com/training/easy/isbn-check-digit) | :x: Not Completed | Easy | |
 | [Jack Silver: The Casino](https://www.codingame.com/training/easy/jack-silver-the-casino) | :x: Not Completed | Easy | |
 | [Logic Gates](https://www.codingame.com/training/easy/logic-gates) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/ltytgat/CodinGame/blob/main/Easy/logic.py) |
