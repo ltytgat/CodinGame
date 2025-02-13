@@ -20,7 +20,7 @@ Solutions made with ChatGPT are in this format: ***LanguageGPT***
 
 ## Puzzles | :heavy_check_mark: Completed | :x: Not Completed |
 
-### Easy (31 completed)
+### Easy (34 completed)
 
 | Puzzle Name | State| Difficulty | Languages |
 |-------------|------|------------|-----------|
@@ -91,7 +91,7 @@ Solutions made with ChatGPT are in this format: ***LanguageGPT***
 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
 
 
-### Medium (10 completed)
+### Medium (11 completed)
 
 | Puzzle Name | State| Difficulty | Languages |
 |-------------|------|------------|-----------|
