@@ -20,7 +20,7 @@ Solutions made with ChatGPT are in this format: ***LanguageGPT***
 
 ## Puzzles | :heavy_check_mark: Completed | :x: Not Completed |
 
-### Easy (31/118 completed)
+### Easy (31 completed)
 
 | Puzzle Name | State| Difficulty | Languages |
 |-------------|------|------------|-----------|
@@ -91,7 +91,7 @@ Solutions made with ChatGPT are in this format: ***LanguageGPT***
 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
 
 
-### Medium (10/209 completed)
+### Medium (10 completed)
 
 | Puzzle Name | State| Difficulty | Languages |
 |-------------|------|------------|-----------|
@@ -199,7 +199,7 @@ Solutions made with ChatGPT are in this format: ***LanguageGPT***
 | [War](https://www.codingame.com/training/medium/winamax-battle)  | :heavy_check_mark: Completed | Medium | [Python](https://github.com/ltytgat/CodinGame/blob/main/Medium/war.py)|
 | [Detective Pikaptcha Ep3](https://www.codingame.com/training/medium/detective-pikaptcha-ep3)  | :x: Not Completed | Medium |  |
 
-### Hard (2/139 completed)
+### Hard (2 completed)
 
 | Puzzle Name | State| Difficulty | Languages |
 |-------------|------|------------|-----------|
@@ -310,7 +310,7 @@ Solutions made with ChatGPT are in this format: ***LanguageGPT***
 | [Zergling rush](https://www.codingame.com/training/hard/zergling-rush)  | :x: Not Completed | Hard | |
 | [Detective Pikaptcha Ep4](https://www.codingame.com/training/hard/detective-pikaptcha-ep4)  | :x: Not Completed | Hard |  |
 
-### Very hard (0/46 completed)
+### Very hard (0 completed)
 
 | Puzzle Name | State| Difficulty | Languages |
 |-------------|------|------------|-----------|
